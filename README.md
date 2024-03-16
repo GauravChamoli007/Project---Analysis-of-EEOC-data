@@ -1,2 +1,3 @@
 # Project---Analysis-of-EEOC-data
 A Comprehensive Exploration Through Dynamic Dashboards of Employment, Education, and Financial Dynamics in the United States
+The analytics research closely studies employment, diversity, and education in the US to provide significant insights that enhance strategic decision-making in the public and private sectors. The data came from two dependable sources: the Equal Employment Opportunity Commission (EEOC) website and Kaggle datasets. Utilizing Alteryx,python,machine learning models the data preparation process included correcting missing values, thoroughly cleaning the data, standardizing format and finally creating dashboards for a comprehensive and flexible layout along with different visualizations.
